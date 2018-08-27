@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: nFusion Solutions
 x-complete: 1
@@ -55,4 +54,3 @@ paths:
       - Annual
       - Performancerequested
       - Metals
----
